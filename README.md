@@ -1,6 +1,5 @@
 # ChestNotifier
-GD ChestNotifier because I save my account and realize I haven't opened the chest.
-
+GD ChestNotifier because I forget the chest frequently.
 How to run
 ```
 compile yourself
